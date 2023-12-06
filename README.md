@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaurabhJadhav09
-- 👀 I’m interested in ... Backend development 
-- 🌱 I’m currently learning for DATA Engineering
+- 👀 I’m interested in ... DATa
+- 🌱 I’m currently learning for DATA Analyst
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...@sidr092003@gmail.com
 
