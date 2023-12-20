@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaurabhJadhav09
+- 👋 Hi, I’m Saurabh
 - 👀 I’m interested in ... Data
-- 🌱 I’m currently learning for DATA Analyst
+- 🌱 I’m currently learning for 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...@sidr092003@gmail.com
 
