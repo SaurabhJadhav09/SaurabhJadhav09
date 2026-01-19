@@ -82,7 +82,6 @@ Stack: HTML, CSS, JS, PHP, MySQL
 
 📍 Navi Mumbai, India  
 📧 Email: [sidr092003@gmail.com](mailto:sidr092003@gmail.com)  
-📱 Mobile: +91 9137359926  
 🔗 LinkedIn: [Saurabh Jadhav](https://www.linkedin.com/in/saurabh-jadhav-791626213/)  
 💻 GitHub: [SaurabhJadhav09](https://github.com/SaurabhJadhav09)
 
