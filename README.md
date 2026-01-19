@@ -58,7 +58,7 @@ Stack: HTML, CSS, JS, PHP, MySQL
 
 ## 🧪 Work Experience
 
-### 💼 Software Engineer Intern @ **NPCI** *(Dec 2024 – Present)*
+### 💼 Software Engineer Intern @ **NPCI** *(Dec 2024 – Nov 2025)*
 - Integrated **Unified Log System (ULS)** into TDS Application  
 - Wrote high-coverage **JUnit tests** (70%+ for InfraAutomation, 80%+ for TDS)  
 - Enhanced code quality and fixed AppSec/SonarQube issues  
